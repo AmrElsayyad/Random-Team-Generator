@@ -1,4 +1,3 @@
 __pycache__/
 .idea/
-list.csv
-groups.csv
+*.csv
